@@ -60,7 +60,7 @@ h1 {
   width: 100%;
   margin-top: 5px;
   border-radius: 5px;
-  box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 8px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
 /* Media Query: Large Smartphone */
@@ -75,6 +75,6 @@ h1 {
   }
 
   .image-container {
-    margin: 10px;
+    margin: 10px 20px;
   }
 }

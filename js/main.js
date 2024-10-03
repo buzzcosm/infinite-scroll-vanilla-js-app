@@ -17,7 +17,7 @@ function imageLoaded() {
   if (imagesLoaded === totalImages) {
     ready = true;
     loader.hidden = true;
-    apiUrl = api.getUrl({ count: 30 });
+    apiUrl = api.getUrl({ count: 10 });
   }
 }
 
